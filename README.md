@@ -59,7 +59,7 @@ Forks in English, Vietnamese, Japanese and German also accepted!
 ---------------------------------------
 
 由于本项目由@valestanov 发起，在对整理标准或选用字形有争议的情况下，@valestanov 保留最终解释权。此外，@valestanov 还保留在极其必要的情况下，为特定音节指定历史文献中没有出现过的字形的权力（**述而作之**）。  
-对于需要@valestanov本人特别注意的Fork，请在SpecialNomList.txt下留言。  
+对于需要@valestanov本人特别注意的Fork，请在CharactersInQuestion.txt下留言。  
 请尽量为尚未确定字形的音节指定字形，但是避免修改已经提交的喃字字形！已修改并通过的字形均经过了@valestanov 本人的确认，随意修改可能会引发新的冲突！特别是越南语中出现频率最高的一部分音节，所用字形都已经经过@valestanov 逐一确认，跟历史字形不符的一定是有某些特殊考量，请不要随意修改！
 
 工作进度
