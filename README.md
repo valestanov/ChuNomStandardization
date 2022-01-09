@@ -1,17 +1,14 @@
 # ChuNomStandardization
 -------------------------------------------
 
-A Chu Nom Standardization Project initiated by Liu(@valestanov). 
-
-一项自行发起的喃字标准化项目。
-
+A Chu Nom Standardization Project initiated by Liu(@valestanov).   
+一项自行发起的喃字标准化项目。  
 Một dự án tiêu chuẩn hóa chữ Nôm của Liu.
 
 工作语言
 ------------------------------------------
 
-Working language: Chinese / 工作语言：中文
-
+Working language: Chinese / 工作语言：中文  
 Forks in English, Vietnamese, Japanese and German also accepted!
 
 目的
